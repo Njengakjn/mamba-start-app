@@ -1,0 +1,1 @@
+# mamba start application (provides the skeleton framework for the rest of the application)
